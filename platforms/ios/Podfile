@@ -1,0 +1,14 @@
+use_frameworks!
+
+target "test" do
+# NativeScriptPlatformSection /Users/victor/NS/test/node_modules/tns-core-modules/platforms/ios/Podfile with 9.0
+platform :ios, '9.0'
+# End NativeScriptPlatformSection
+
+# Begin Podfile - /Users/victor/NS/test/node_modules/tns-core-modules/platforms/ios/Podfile
+# platform :ios, '9.0'
+use_frameworks!
+
+pod 'MaterialComponents/Tabs', '~> 84.4'
+# End Podfile
+end
